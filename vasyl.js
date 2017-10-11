@@ -1,0 +1,3 @@
+function myFync(){
+	alert('cool!');
+}
